@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My first website
+        </title>
+    </head>
+    <body>
+        <div>
+            <h1 align="center" >PHOTOGRAPHY</h1>
+            
+            <div name="Informations" >
+                <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sign up </h3>
+                <label for="nom">
+                    Nom  :
+                </label>
+                <input type="text" id="nom" ><br><br>
+                <label for="prenom">
+                    Prenom  :
+                </label>
+                <input type="text" id="prenom" /><br><br>
+                <label for="courriel">Courriel : 
+                    <input type="text" id="courriel"/>
+                </label><br><br>
+                <label for="date" > Date de naissance : </label>
+                <input type="date" id="date" /><br><br>
+                <label for="">Gender :
+                    <input type="radio"  value="Male" name="choice">Male</input>
+                    <input type="radio"  value="female" name=choice>Female</input>
+                    <input type="radio"  value="other" name="choice">Other</input>
+                </label><br><br>
+                <input type="submit" name="submit" value="Envoyer" /> 
+            </div>
+            <div name="video">
+                <h2>
+                    This is a small video about photography ! 
+                </h2>
+                <iframe width="500" height="300" src="https://www.youtube.com/embed/zt5kmKz2v7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+        
+        <div name="text">
+            <p>
+                <h2>
+                    Photography
+                </h2>
+                Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.[1]
+
+Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically "developed" into a visible image, either negative or positive depending on the purpose of the photographic material and the method of processing. A negative image on film is traditionally used to photographically create a positive image on a paper base, known as a print, either by using an enlarger or by contact printing.
+            </p>
+            <p>
+                <h2>
+                    Etymology
+                </h2>
+                Several people may have coined the same new term from these roots independently. Hercules Florence, a French painter and inventor living in Campinas, Brazil, used the French form of the word, photographie, in private notes which a Brazilian historian believes were written in 1834.[5] This claim is widely reported but is not yet largely recognized internationally. The first use of the word by the Franco-Brazilian inventor became widely known after the research of Boris Kossoy in 1980.[6]
+
+The German newspaper Vossische Zeitung of 25 February 1839 contained an article entitled Photographie, discussing several priority claims – especially Henry Fox Talbot's – regarding Daguerre's claim of invention.[7] The article is the earliest known occurrence of the word in public print.[8] It was signed "J.M.", believed to have been Berlin astronomer Johann von Maedler.[9] The astronomer Sir John Herschel is also credited with coining the word, independent of Talbot, in 1839.
+            </p>
+            <p>
+                <h2>History</h2>
+                Photography is the result of combining several technical discoveries, relating to seeing an image and capturing the image. The discovery of the camera obscura ("dark chamber" in Latin) that provides an image of a scene dates back to ancient China. Greek mathematicians Aristotle and Euclid independently described a camera obscura in the 5th and 4th centuries BCE.[11][12] In the 6th century CE, Byzantine mathematician Anthemius of Tralles used a type of camera obscura in his experiments.[13]
+
+The Arab physicist Ibn al-Haytham (Alhazen) (965–1040) also invented a camera obscura as well as the first true pinhole camera.[12][14][15] The invention of the camera has been traced back to the work of Ibn al-Haytham.[16] While the effects of a single light passing through a pinhole had been described earlier,[16] Ibn al-Haytham gave the first correct analysis of the camera obscura,[17] including the first geometrical and quantitative descriptions of the phenomenon,[18] and was the first to use a screen in a dark room so that an image from one side of a hole in the surface could be projected onto a screen on the other side.[19] He also first understood the relationship between the focal point and the pinhole,[20] and performed early experiments with afterimages, laying the foundations for the invention of photography in the 19th century.[15]
+            </p>
+
+        </div>
+        <div name="picture">
+            <h2>
+                Picture of the week !!
+            </h2>
+            <img src="https://pbs.twimg.com/media/EW-Rew5XkAIaykG.jpg" width="20%" height="20%"></img>
+        </div>
+        <h2>Contacts :</h2>
+        <div name="table">
+            <table border="3">
+               <tr>
+                   <td>Company</td>
+                   <td>Contact</td>
+                   <td>Country</td>
+               </tr> 
+               <tr>
+                   <td>Canon</td>
+                   <td>0535568970</td>
+                   <td>Germany</td>
+               </tr>
+               <tr>
+                    <td>Nikon</td>
+                    <td>0530085400</td>
+                    <td>United State</td>
+                </tr>
+                <tr>
+                    <td>Alpha</td>
+                    <td>0543100009</td>
+                    <td>Mexico</td>
+                </tr>
+                <tr>
+                    <td>Roche</td>
+                    <td>0580000547</td>
+                    <td>Morocco</td>
+                </tr>
+            </table>
+        </div>
+        <div name="design">
+            <h2><u>Top Websites for Photography : </h2></u>
+            <h2 ><a href="https://www.pexels.com/fr-fr/chercher/foto%20hd/" target="_blank">www.pexels.com</a></h2>
+            <h2 ><a href="https://pixabay.com/fr/images/search/hd/" target="_blank">www.pixabay.com</a></h2>
+            <h2 ><a href="https://unsplash.com/backgrounds/desktop/hd" target="_blank">www.unsplash.com</a></h2>
+            <h2 ><a href="https://fr.freepik.com/photos-populaire" target="_blank">www.fr.freepik.com</a></h2>
+        </div>
+
+    </body>
+</html>
